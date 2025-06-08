@@ -1,6 +1,5 @@
 // ==UserScript==
 // @name         Social Media Confirmation Prompt
-// @namespace    https://bvllmer.github.io/To-Do-List/
 // @version      1.1
 // @updateURL    https://raw.githubusercontent.com/bvllmer/social-media-blocker/refs/heads/main/social-blocker.user.js
 // @downloadURL  https://raw.githubusercontent.com/bvllmer/social-media-blocker/refs/heads/main/social-blocker.user.js
