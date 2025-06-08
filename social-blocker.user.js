@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Social Media Confirmation Prompt
-// @version      1.1
+// @version      1.2
 // @updateURL    https://raw.githubusercontent.com/bvllmer/social-media-blocker/refs/heads/main/social-blocker.user.js
 // @downloadURL  https://raw.githubusercontent.com/bvllmer/social-media-blocker/refs/heads/main/social-blocker.user.js
 // @description  Ask for confirmation before entering Instagram or Twitter
